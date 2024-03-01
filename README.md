@@ -1,1 +1,2 @@
 # deeplearningwsi
+Initially, I organized my data by proficiently working with various file formats, including TIFF, SVS, TIF, XML, NDPI, and MRXS, while leveraging my data science skills to handle high-dimensional Whole Slide Images (WSIs). To ensure consistency and prevent discrepancies, I implemented robust data preprocessing techniques. Utilizing coordinate information derived from tissue regions, I systematically generated mask images. Finally, I commenced the process of training my model using this meticulously curated and standardized dataset.
